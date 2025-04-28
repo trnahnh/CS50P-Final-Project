@@ -37,13 +37,13 @@ Usage
 
 ## Screenshots
 
-![Usage - Tip](https://github.com/user-attachments/assets/f0f24b79-28da-4f0a-8f58-386c5d5e1d7a)
+![Usage - Tip](https://github.com/user-attachments/assets/d9bb34f1-4556-4528-a67a-05bd6d1f46e3)
 
-![Usage - Meal Prep](https://github.com/user-attachments/assets/fcde79b7-8c5f-4f22-a800-aaeca01bf6bd)
+![Usage - Meal Prep](https://github.com/user-attachments/assets/e1a84fc2-acd8-4dc9-9e5a-72d5ee62c630)
 
-![Usage - Contact](https://github.com/user-attachments/assets/5b8cd9bc-10fd-47f2-a574-d44923273b5e)
+![Usage - Contact](https://github.com/user-attachments/assets/d7e7389b-7445-40c5-88cd-0d1538b710a5)
 
-![Usage - Lifting Schedule](https://github.com/user-attachments/assets/f023daa8-5fc7-4dc8-a508-8657d7c2fd60)
+![Usage - Tip](https://github.com/user-attachments/assets/a5919668-8b37-42b0-9b55-27ddf79e7945)
 
 
 ## Support
