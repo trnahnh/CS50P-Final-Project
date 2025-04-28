@@ -43,7 +43,7 @@ Usage
 
 ![Usage - Contact](https://github.com/user-attachments/assets/d7e7389b-7445-40c5-88cd-0d1538b710a5)
 
-![Usage - Tip](https://github.com/user-attachments/assets/a5919668-8b37-42b0-9b55-27ddf79e7945)
+![Usage - Lifting Schedule](https://github.com/user-attachments/assets/03539189-505b-47f7-9375-e15928f447f1)
 
 
 ## Support
